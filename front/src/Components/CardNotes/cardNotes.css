@@ -1,0 +1,14 @@
+.Card{
+    width: 450px;
+    height: 150px;
+    border: solid;
+    border-color: gray;
+    border-width: 0.5px;
+    border-radius: 15px;
+}
+.Icono{
+    font-size: 100px;
+}
+.SecondIcono{
+    font-size: 20px;
+}

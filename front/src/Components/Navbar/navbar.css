@@ -1,0 +1,40 @@
+
+.Sav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    
+}   
+
+.Sad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}   
+.Link{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    height: 25px;
+    background-color: #F3F3F3;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+.Link:hover{
+    opacity: 0.5;
+}
+.Tittle{
+    font-size: 50px;
+}
+.Coniner-Tittle{
+    margin-right: 15px;
+    color: azure;
+}
+
+
